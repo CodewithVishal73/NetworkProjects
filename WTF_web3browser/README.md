@@ -1,4 +1,4 @@
-# 🌐 Web3 Browser Platform
+# 🌐 Web3 Browser Platform (#blockchain-14)
 
 An immersive, decentralized web browser and application gateway built for the next generation of the internet. This platform is designed to promote Web3 adoption for beginners through a gamified, secure, and intuitive experience while integrating powerful features like a built-in wallet and native ad-blocking.
 
@@ -7,6 +7,9 @@ https://youtu.be/tfX2hKEimkA?si=cyxPvtFyo0JVyq-6
 
 ## Live Demo Link
 https://web3browser-sooty.vercel.app/
+
+## Team name : WTF CoderZ (HackJKLU v5.0)
+
 
 ## 🚀 Product Overview
 **What is our dApp about?**
